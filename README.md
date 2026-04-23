@@ -59,7 +59,7 @@ This repository contains an automated workflow designed to streamline job applic
 1. **Clone this Repository**
 
    ```bash
-   git clone https://github.com/AloysJehwin/job-app.git
+   git clone https://github.com/srushtisaykar/job-app.git
    ```
 
 2. **Configure n8n**
@@ -89,10 +89,7 @@ This repository contains an automated workflow designed to streamline job applic
 * Centralized Google Sheet logging user and job data
 * Google Drive folder for each user storing all updated resumes
 
-## License
-
-MIT License
 
 ## Author
 
-Created by Aloys Jehwin
+Created by srushti saykar
